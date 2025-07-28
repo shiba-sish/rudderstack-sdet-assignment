@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
