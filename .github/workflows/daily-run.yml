@@ -2,7 +2,7 @@ name: Daily Automation Run
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: ''
   workflow_dispatch:
 
 jobs:
